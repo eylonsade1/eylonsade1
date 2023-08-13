@@ -46,6 +46,3 @@
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=eylonsade1&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=eylonsade1&icon=5&color=9)](https://visitcount.itsvg.in)
