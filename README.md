@@ -2,7 +2,7 @@
 <h1 align="center">Welcome, I'm Eylon 😊 </h1>
 <h3 align="center"> Aspiring Software Engineer | Seeking Full-Time Junior Positions in Tech</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/eylon-sade/">
+  <a href="https://www.linkedin.com/in/eylon-sade/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:eylonsade@gmail.com">
